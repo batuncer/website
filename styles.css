@@ -1,0 +1,38 @@
+h1{
+    text-align: center;
+    color:brown;
+}
+
+table{
+    width: 100%;
+    border: 2px solid black;
+    border-collapse: collapse;
+}
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+td, th{
+    border: 2px solid black;
+    text-align: left;
+    padding: 8px;
+}
+tr:nth-child(even){
+    background-color: aqua;
+}
+
+tr:hover{
+    background-color: yellow;
+}
+
+img {
+    border-radius: 50%;
+    width: 300px;
+
+}
+.container{
+    display:flex;
+    flex-direction: row;
+}
+
