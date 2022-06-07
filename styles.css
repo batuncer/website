@@ -37,8 +37,7 @@ img {
     padding: 20px 0 20px 0;
     width: 200px;
     height: 200px;
-    width: 33%;
-
+    
 }
 .container{
     display:flex;
@@ -52,4 +51,5 @@ img {
 
 p {
     text-align: center;
+
 }
